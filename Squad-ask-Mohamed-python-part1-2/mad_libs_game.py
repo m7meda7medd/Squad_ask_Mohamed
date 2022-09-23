@@ -1,5 +1,4 @@
 
-from tokenize import Name
 
 
 colour = str(input("enter a colour:"))
